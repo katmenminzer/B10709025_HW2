@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Waitlist</string>
+    <string name="guest_name_hint">Guest name</string>
+    <string name="party_size_hint">Party size (max 99)</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_guest_name">[Guest name]</string>
+    <string name="default_party_size">\?</string>
+    <string name="action_settings">ActionSetting</string>
+
+    <string name="pref_label">Color</string>
+    <string name="pref_light">Light</string>
+    <string name="pref_dark">Dark</string>
+    <string name="pref_label_key" translatable="false">Color</string>
+    <string name="pref_light_value" translatable="false">#7986CB</string>
+    <string name="pref_dark_value" translatable="false">#303F9F</string>
+</resources>
